@@ -1,3 +1,9 @@
+body {
+    display: table;
+    margin: auto;
+}
+
+
 .container {
     width: 400px;
     height: 650px;
